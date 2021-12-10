@@ -15,8 +15,9 @@ At the least, you can use the OpenSCAD to grab the measurements for the joystick
 
 ---
 
-2020-12-08 : Posted revision 1H. Updated model for more common screw sizes. You still need M1.6*4 (or glue) to hold the joystick in place, but the breakout and case are now set for M3 screws (M3*12 best for case). 
+2021-12-08 : Posted revision 1H. Updated model for more common screw sizes. You still need M1.6*4 (or glue) to hold the joystick in place, but the breakout and case are now set for M3 screws (M3*12 best for case). M3*8 or shorter for breakout board. *Six or *four would be ideal.
 
 ---
 
-2020-12-09 : Posted "PackOfGumStyle" -- which is an enlongated (80mm) version. Slightly (2mm) less height.
+2021-12-09 : Posted "PackOfGumStyle" -- which is an enlongated (80mm) version. Slightly (2mm) less height.
+2021-12-10 : Updated PackOfGumStyle to make deeper screw holes for case closure (wasn't fitting 12mm screws).
